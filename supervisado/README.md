@@ -3,7 +3,7 @@
 ## Integrantes y Aportes
 | Integrante | Aporte |
 |------------|--------|
-| Jose Andres de la Ossa Carmona | Dataset y descripción de datos, Notebook y modelo de ML,Documentación, pruebas y mapa conceptual |
+| Jose Andres de la Ossa Carmona | Dataset y descripción de datos, Notebook y modelo de ML, Documentación, pruebas y mapa conceptual |
 
 ## Descripción
 Modelo de Árbol de Decisión para predecir demanda en estaciones de transporte.
