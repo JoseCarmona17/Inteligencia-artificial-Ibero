@@ -1,6 +1,6 @@
 # Aprendizaje No Supervisado - Clustering de Transporte Masivo
 
-## Actividad 6 - Inteligencia Artificial
+## Actividad 4 - Inteligencia Artificial
 
 ---
 
